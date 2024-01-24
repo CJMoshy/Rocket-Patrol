@@ -11,10 +11,9 @@ Welcome to Rocket Patrol, a classic space-themed shooting game inspired by the r
 ## Features
 
 - Classic space shooter gameplay.
-- Responsive design for various screen sizes.
-- Sound effects and background music.
-- Increasing difficulty levels.
 - Score tracking.
+- Two difficulties.
+- Audio and visual ques.
 
 ## How to Play
 - Simply navagate to the github local deployment link located on the bottom right of main repository screen
